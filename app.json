@@ -119,9 +119,10 @@
       "value": "",
       "required": false
     }
-    "EXTRA":{
+    "EXTRA": {
     "description": "Don't edit.",
-    "value":"True",
+    "value": "True",
+    "required": false
     }
   },
   "addons": [{
