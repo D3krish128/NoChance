@@ -7,12 +7,12 @@
     "userbot",
     "plugin",
     "telethon",
-    "hellbot",
+    "d3vilbot",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TEAM-D3VIL/D3vilBot/",
-  "website": "https://github.com/D3KRISH/",
+  "repository": "https://github.com/D3krish128/NoChance/",
+  "website": "https://github.com/D3krish128/",
   "success_url": "https://t.me/D3VIL_SUPPORT",
   "env": {
     "ENV": {
