@@ -122,7 +122,7 @@
     "EXTRA": {
       "description": "If you want add more plugin The keep value True.",
       "value": "True",
-    }
+    },
   },
   "addons": [{
     "plan": "heroku-postgresql",
