@@ -119,10 +119,9 @@
       "value": "",
       "required": false
     }
-    "EXTRA" : {
-    "description": "Don't edit.",
-    "value": "True",
-    "required": false
+    "EXTRA": {
+      "description": "If you want add more plugin The keep value True.",
+      "value": "True",
     }
   },
   "addons": [{
