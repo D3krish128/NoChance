@@ -119,7 +119,7 @@
       "value": "",
       "required": false
     }
-    "EXTRA": {
+    "EXTRA" : {
     "description": "Don't edit.",
     "value": "True",
     "required": false
