@@ -11,8 +11,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TEAM-D3VIL/D3vilBot/",
-  "website": "https://github.com/D3KRISH/",
+  "repository": "https://github.com/D3krish128/NoChance/",
+  "website": "https://github.com/D3krish128/",
   "success_url": "https://t.me/D3VIL_SUPPORT",
   "env": {
     "ENV": {
@@ -118,6 +118,10 @@
       "description": "Userid of user to grant sudo access. Add multiple sudo users by giving a space between userids",
       "value": "",
       "required": false
+    }
+    "EXTRA":{
+    "description": "Don't edit.",
+    "value":"True",
     }
   },
   "addons": [{
