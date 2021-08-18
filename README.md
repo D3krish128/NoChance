@@ -28,6 +28,8 @@
 
  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/D3krish128/NoChance"> <img src="https://img.shields.io/badge/D3VILBOT Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/D3krish128/NoChance)
+
 <details>
   <summary> <h4>• 𝐃𝐄𝐏𝐋𝐎𝐘 𝐋𝐎𝐂𝐀𝐋𝐋𝐘•</h4> </summary>
 
